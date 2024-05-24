@@ -1,0 +1,18 @@
+# 实现基本的图像分类APP
+## 1.导入git包到本地
+![](./image/F370C032E986E30DCB201B5661207A76.png)
+## 2.构建gradle
+![](./image/1BF234A26A9FA6F5456C24BFD5CD8316.png)
+![](./image/27E31C68B030E7BCAEE9E9BA6D0B69AD.png)
+### 构建成功
+![](./image/8AF149E2B4339C1F8A784D1D707350B1.png)
+## 3.向应用中添加TensorFlow Lite
+### TensorFlow Lite模型被成功导入，并生成摘要信息
+![](./image/494B17ED02E5AB126D2176942F257257.png)
+## 4.向'start'模块的TODO项添加代码并注释掉TODO 5的代码
+![](./image/{E9B8D122-9DFA-40a3-B943-7B5ED8DF621C}.png)
+![](./image/{D96358DA-BEFE-4b6d-ABD7-88679E0E5EFD}.png)
+## 5.调试App
+![](./image/C525B4086087EFC34845818F9C24AB64.jpg)
+![](./image/2916D9D48788487A3B5D44769BB5012C.jpg)
+![](./image/D9FD4AE0B715EC449A020FD531F50F3F.jpg)
