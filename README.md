@@ -9,3 +9,5 @@
 [实验3_Notebook基础实践](https://github.com/qingtongGT/Software-Project-Practice/blob/main/Project%20E3.md)
 
 [实验4_实现基本的图像分类APP](https://github.com/qingtongGT/Software-Project-Practice/blob/main/Project%20E4.md)
+
+[实验5_1TensorFlow Lite 模型生成](https://github.com/qingtongGT/Software-Project-Practice/blob/main/Project%20E5_1.md)
